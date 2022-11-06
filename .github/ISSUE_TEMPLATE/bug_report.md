@@ -4,6 +4,8 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["Type: bug"]
 assignees:
+
+---
 body:
   - type: markdown
     attributes:
@@ -61,4 +63,3 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true
 
----
