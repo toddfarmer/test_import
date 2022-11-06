@@ -1,11 +1,8 @@
----
 name: Bug Report
 about: File a bug report
 title: "[Bug]: "
 labels: ["Type: bug"]
 assignees:
-
----
 body:
   - type: markdown
     attributes:
